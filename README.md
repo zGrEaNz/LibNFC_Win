@@ -5,6 +5,8 @@ Compile With MSYS2 x86_64
 
 Tested On Win10 Pro x64
 
+INSTALL AT C:\LibNFC
+
 # Credits
 
 https://github.com/peacepenguin
